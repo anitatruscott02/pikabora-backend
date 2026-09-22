@@ -1,0 +1,82 @@
+[
+  {
+    "alias_id": "AL-NG-001",
+    "country_code": "NG",
+    "pikabora_food_id": "NG-01-02-03",
+    "alias": "Ogi",
+    "language": "Yoruba",
+    "alias_type": "Local/common",
+    "verification_status": "Verified from source",
+    "notes": "Source explicitly labels Ogi (Yoruba)"
+  },
+  {
+    "alias_id": "AL-NG-002",
+    "country_code": "NG",
+    "pikabora_food_id": "NG-01-04-04",
+    "alias": "Tuwo Shinkafa",
+    "language": "Hausa",
+    "alias_type": "Local/common",
+    "verification_status": "Verified from source",
+    "notes": "Source explicitly labels Tuwo Shinkafa (Hausa)"
+  },
+  {
+    "alias_id": "AL-NG-003",
+    "country_code": "NG",
+    "pikabora_food_id": "NG-02-03-06",
+    "alias": "Eba",
+    "language": "Yoruba",
+    "alias_type": "Local/common",
+    "verification_status": "Verified from source",
+    "notes": "Source explicitly labels Eba (Yoruba)"
+  },
+  {
+    "alias_id": "AL-NG-004",
+    "country_code": "NG",
+    "pikabora_food_id": "NG-02-07-13",
+    "alias": "Iyan",
+    "language": "Yoruba",
+    "alias_type": "Local/common",
+    "verification_status": "Verified from source",
+    "notes": "Source explicitly labels Iyan (Yoruba)"
+  },
+  {
+    "alias_id": "AL-NG-005",
+    "country_code": "NG",
+    "pikabora_food_id": "NG-02-07-15",
+    "alias": "Amala dudu",
+    "language": "Yoruba",
+    "alias_type": "Local/common",
+    "verification_status": "Verified from source",
+    "notes": "Source explicitly labels Amala dudu (Yoruba)"
+  },
+  {
+    "alias_id": "AL-NG-006",
+    "country_code": "NG",
+    "pikabora_food_id": "NG-03-02-05",
+    "alias": "Akara elepo",
+    "language": "Yoruba",
+    "alias_type": "Local/common",
+    "verification_status": "Verified from source",
+    "notes": "Source explicitly labels Akara elepo (Yoruba)"
+  },
+  {
+    "alias_id": "AL-NG-007",
+    "country_code": "NG",
+    "pikabora_food_id": "NG-03-02-05",
+    "alias": "Bean cake",
+    "language": "English",
+    "alias_type": "English/common",
+    "verification_status": "Verified from source",
+    "notes": "English name in source"
+  },
+  {
+    "alias_id": "AL-NG-008",
+    "country_code": "NG",
+    "pikabora_food_id": "NG-03-02-09",
+    "alias": "Moin-Moin",
+    "language": "English/common",
+    "alias_type": "Common",
+    "verification_status": "Verified from source",
+    "notes": "Prepared bean dish in source"
+  }
+]

@@ -1,0 +1,18 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: pikabora
+      POSTGRES_USER: pikabora
+      POSTGRES_PASSWORD: change-me
+    volumes:
+      - pikabora_pg:/var/lib/postgresql/data
+  api:
+    build: .
+    ports: ["8000:8000"]
+    environment:
+      DATABASE_URL: postgresql+psycopg://pikabora:change-me@db:5432/pikabora
+      PIKABORA_ADMIN_KEY: replace-me
+    depends_on: [db]
+volumes:
+  pikabora_pg:
